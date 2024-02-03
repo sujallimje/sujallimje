@@ -6,6 +6,7 @@
 - 🧑‍💻 Emerging Software Engineer
 - 🏫 Studying B.Tech. in Computer Science at S.R.M. Institute of Science and Technology
 - 🌱 Currently learning Machine Learning
+- 💻 View my Portfolio website : https://sujallimje.github.io/my_portfolio/
 - 📫 How to reach me: sujallimjeofficial@gmail.com
 
 ## 💻 Skills & Technologies
@@ -26,3 +27,17 @@
  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujallimje&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sujallimje&hide=prs)
+
+## 🧠 LeetCode Stats
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=sujallimje999)
+
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/your-username/)](https://www.linkedin.com/in/sujallimje/)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/your-username)](https://twitter.com/SujalLimje?t=XBDB8iMuYkoQz9daix0c-A&s=09)
+
+
+### 🔢 Visitor Count 
+![Visitor Count](https://profile-counter.glitch.me/sujallimje/count.svg)
