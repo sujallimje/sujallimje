@@ -1,4 +1,6 @@
 <p align = "center">
+<picture><img src ="https://github.com/sujallimje/sujallimje/blob/main/dino.jpeg" height=150px></picture>
+ 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+Sujal's+Github+profile+!" alt="Typing SVG" /></a></p>
 
 ## <picture><img src = "https://github.com/sujallimje/sujallimje/blob/main/about_me.gif?raw=true" width = 50px></picture> About me
@@ -6,7 +8,7 @@
 - 🧑‍💻 Emerging Software Engineer
 - 🏫 Studying B.Tech. in Computer Science at S.R.M. Institute of Science and Technology
 - 🌱 Currently learning Machine Learning
-- 💻 View my Portfolio website : https://sujallimje.github.io/my_portfolio/
+- 💻 View my Portfolio website : https://sujallimje.github.io/Portfolio_2.1/
 - 📫 How to reach me: sujallimjeofficial@gmail.com
 
 ## 💻 Skills & Technologies
