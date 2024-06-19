@@ -34,7 +34,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sujallimje&hide=prs)
 
 ## 🧠 LeetCode Stats
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=sujallimje999)
+![LeetCode Stats](https://leetcard.jacoblin.cool/sujallimje999?theme=dark&ext=heatmap)
 
 
 ## 🌐 Connect with Me
