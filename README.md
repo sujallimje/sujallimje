@@ -9,7 +9,7 @@
 - 🧑‍💻 Emerging Software Engineer
 - 🏫 Studying B.Tech. in Computer Science at S.R.M. Institute of Science and Technology
 - 🌱 Currently learning Machine Learning
-- 💻 View my Portfolio website : https://sujallimje.github.io/Portfolio_2.1/
+- 💻 View my Portfolio website : https://sujallimje.site
 - 📫 How to reach me: sujallimjeofficial@gmail.com
 
 ## 💻 Skills & Technologies
